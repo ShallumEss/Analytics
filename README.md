@@ -16,6 +16,8 @@ git pull
 1. Yisrael
 2. Avraham
 3. Yacov
+4. Shallum
+This is a great challenge
 
 #### LISTS OF AI USE CASES
 - Vision
